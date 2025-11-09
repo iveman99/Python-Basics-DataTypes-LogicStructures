@@ -48,11 +48,11 @@ Her teaching inspired this hands-on notebook — focusing not just on syntax but
 ### 📂 Repository Structure
 
 Python-Basics-DataTypes-LogicStructures/
-|----------|--------|-------------|
+│
+├── 📘 DataTypes_IfCondition_DataStructures.ipynb
+├── 📄 DataTypes_IfCondition_DataStructures.pdf   # (Optional visual reference)
+└── 🧾 README.md
 
-├──DataTypes_IfCondition_DataStructures.ipynb
-├── DataTypes_IfCondition_DataStructures.pdf # (Optional visual reference)
-└── README.md
 ---
 
 ### 🧩 About This Series
