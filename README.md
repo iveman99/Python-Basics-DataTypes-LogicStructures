@@ -1,6 +1,6 @@
 # 🧠 Python Basics: Data Types, Logic & Data Structures  
 
-> **"Making Data Speak"**  
+> **"Making Data Speak -iVeman"**  
 
 ---
 
