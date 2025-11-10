@@ -46,12 +46,14 @@ Her teaching inspired this hands-on notebook — focusing not just on syntax but
 ---
 
 ### 📂 Repository Structure
+
+```text
 Python-Basics-DataTypes-LogicStructures/
 │
 ├── 📘 DataTypes_IfCondition_DataStructures.ipynb     # Main Jupyter Notebook
 ├── 📄 DataTypes_IfCondition_DataStructures.pdf        # (Optional visual reference)
 └── 🧾 README.md                                       # Documentation file
-
+```
 ---
 
 ### 🧩 About This Series
@@ -60,7 +62,7 @@ This is part of my **Scribbled Logic** learning series — documenting my journe
 > Before it becomes a workflow or an agent, it’s just an idea fighting for structure.
 
 Follow my journey here:  
-🔗 [LinkedIn Post](<your-linkedin-post-url>)  
+🔗 [LinkedIn Post](<https://www.linkedin.com/posts/veman-chippa_the-art-of-raw-logic-scribbled-logic-activity-7393595799793913856-K6Lx?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEZb3vQBWKlaVCr1c5U11sONkwJmkdnhfbM&utm_campaign=copy_link>)  
 
 ---
 
